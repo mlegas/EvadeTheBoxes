@@ -1,5 +1,5 @@
 # EvadeTheBoxes
-A simple 3D FPS game made with the use of C++ and OpenGL.
+A simple 3D FPP game made with the use of C++ and OpenGL.
 
 The project uses SFML libraries to compile, and SFML .dll files to run. It should compile with the current project settings.
 
