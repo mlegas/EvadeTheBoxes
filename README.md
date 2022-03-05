@@ -4,6 +4,7 @@ A simple 3D FPS game made with the use of C++ and OpenGL.
 The project uses SFML libraries to compile, and SFML .dll files to run. It should compile with the current project settings.
 
 ## Playing the game
+You operate as a first-person character and focus not to hit any of the oncoming boxes from above, trying to beat your previous time with each crash.
 
 Use WSAD keys to move.
 Press K to begin the fall of the boxes.
